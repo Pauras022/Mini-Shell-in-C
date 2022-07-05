@@ -32,7 +32,5 @@ Environment Variables: USER, HOME, SHELL, TERM, PATH
 *Minishell does work for multiple number of arguments in single command line, 
 *Redirection operations >,<,>>,<< can be used.
 *Single Piping between commands can be used.
-*history.txt file is created in current directory to store history.
-
-*One anomaly is there , sometimes if you type exit command right after history command then you will have to type exit command once more to exit from the minishell. 
+*history.txt file is created in current directory to store history. 
 	
